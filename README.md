@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Orangelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelop&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelop&layout=compact&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelop&layout=compact&show_icons=true&langs_count=8)  
 
 
 <!--
