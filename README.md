@@ -2,7 +2,6 @@
 
 ![Orangelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelop&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelop&layout=compact&show_icons=true&langs_count=8)  
-![Orangelop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orangelop)
 
 
 <!--
