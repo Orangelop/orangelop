@@ -1,7 +1,7 @@
 ### Hi Here 👋
-Currently Lives in Jiangsu, China || Born in 2007 || Senior High Student (CN), Busy Preparing For Gaokao  
-Frontend & Backend Programmer || Security Researcher || Owner of [LME Institue](https://lmestudio.github.io)  
-Electric Dance Music Lover || Rythmn Game Player || DM: orangelopn@gmail.com or orangelop@qq.com  
+Jiangsu, China || Born in 2007 || Senior High Student (CN), Busy Preparing For gaokao  
+Frontend & Backend Programmer || Security Researcher || Owner & Founder of [LME Institue](https://lmestudio.github.io)  
+EDM Lover || MUG Player || DM: orangelopn@gmail.com / orangelop@qq.com  
 
 ![Orangelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelop&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelop&layout=compact&show_icons=true&langs_count=8)  
