@@ -1,6 +1,6 @@
 ### Hi Here 👋
 Jiangsu, China || Born in 2007  
-Frontend & Backend Programmer || Security Researcher
+Frontend & Backend Programmer || Security Researcher  
 Owner & Founder of [LME Institue](https://lmestudio.github.io)  
 EDM Lover || MUG Player || DM: orangelopn@gmail.com
 
